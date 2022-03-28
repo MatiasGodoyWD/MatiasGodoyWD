@@ -3,7 +3,7 @@
 
 ## I'm a Front-End Web Developer from Buenos Aires, Argentina.
 
----
+
 
 
 <p>🎓 I'm currently working as a web development mentor at NUCBA.</p>
